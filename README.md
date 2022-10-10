@@ -1,2 +1,2 @@
-# ASD-correlationanalysis
+# Autism Spectrum Disorder Correlationanalysis
 Please read the Project Write Up for an understanding of the project, the dataset, methods, analysis, and conclusions. You may also look at the various python files to further understand the code behind the project. They are seperated into three main analysis of ASD correlates which are the corrosponding three distinct python files (Political Partisanship of News Outlets & Ableist Language and Sentiment, Racial diversity in ASD research & State Partisanship, and ASD Prevalence, State Partisanship, & Poverty Level). The "utils" file was used to create a dictionary for abbreviating states to their respective acrynonyms but is not one of the main python files created for analysis. 
